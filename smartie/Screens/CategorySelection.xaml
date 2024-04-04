@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="Smartie.Screens.CategorySelection"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Smartie.Screens">
+    <Grid>
+        <ListBox x:Name="CategoriesListBox"
+                 SelectionChanged="CategoriesListBox_SelectionChanged">
+            <!-- ListBox item template and other configurations go here -->
+        </ListBox>
+    </Grid>
+</UserControl>

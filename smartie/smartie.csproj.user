@@ -7,7 +7,27 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Screens\CategorySelection.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Screens\LevelSelection.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Screens\Quiz.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Screens\CategorySelection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Screens\LevelSelection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Screens\Quiz.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

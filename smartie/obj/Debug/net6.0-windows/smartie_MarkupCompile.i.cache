@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\learn\source\repos\smartie\smartie\App.xaml
-11407045341
+51631475055
 
-5-515576501
-195-1585941445
-MainWindow.xaml;
+12987585731
+198-399874114
+MainWindow.xaml;Screens\CategorySelection.xaml;Screens\LevelSelection.xaml;Screens\Quiz.xaml;Screens\SplashScreen.xaml;
 
 False
 

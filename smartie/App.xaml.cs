@@ -13,5 +13,23 @@ namespace smartie
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+    {
+        base.OnStartup(e);
+        ShowSplashScreen();
+        
+        // Initialize the DatabaseManager
+        DatabaseManager dbManager = new DatabaseManager();
+        
+        // Test the database connection
+        dbManager.TestDatabaseConnection();
+
+        // Rest of your startup code...
+    }
+        private void ShowSplashScreen()
+        {
+            var splashScreen = new SplashScreen();
+            splashScreen.Show();
+        }
     }
 }

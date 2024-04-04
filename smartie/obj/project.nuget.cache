@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EIom8Hn+YQ1uWuyNQPwy4B50gG8wFjbzadR4cRzG9Wj1c5eyzF5rs/jlqKgMknVq6/BhABKqgeFRZDz2r0ByhQ==",
+  "dgSpecHash": "HXaT14UKb6dNlJTMzOCMIO+m8LCE0t0hypiVlqiMLkSjDcKAKfTq1GRXzy/3xbAtSbmZrBMOQ3YzckQ5PWkLUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\learn\\source\\repos\\smartie\\smartie\\smartie.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\learn\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\learn\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\learn\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
     "C:\\Users\\learn\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
     "C:\\Users\\learn\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
   ],
